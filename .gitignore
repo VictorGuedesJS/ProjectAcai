@@ -1,0 +1,8 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore JetBrains IDE project files
+.idea/
+
+# Ignore GitHub workflows and configurations
+.github/
