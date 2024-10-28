@@ -1,0 +1,7 @@
+train: C:/Users/VICTOR HUGO/PycharmProjects/TesteTCC/dataset/training/images/train
+val: C:/Users/VICTOR HUGO/PycharmProjects/TesteTCC/dataset/training/images/val
+
+nc: 1  # Número de classes (1 no seu caso para açaí)
+names: ['acai']  # Nome da class
+
+
