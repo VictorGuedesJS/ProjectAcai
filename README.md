@@ -1,4 +1,4 @@
-v# Sistema de Visão com Raspberry Pi e YOLO V5 para Identificação de Açaí
+# Sistema de Visão com Raspberry Pi e YOLO V5 para Identificação de Açaí
 
 Este repositório contém um sistema de visão computacional que utiliza uma webcam conectada a um Raspberry Pi para identificar em tempo real se um objeto é um açaí, utilizando o modelo YOLO V5. O projeto é uma aplicação prática de aprendizado de máquina e visão computacional, demonstrando como é possível utilizar tecnologia acessível para tarefas de identificação de objetos.
 
